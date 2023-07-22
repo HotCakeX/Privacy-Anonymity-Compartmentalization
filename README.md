@@ -40,7 +40,9 @@ As a privacy-conscious person, you should be clear and discerning about who your
 
 ### Why tactically?
 
-Privacy decisions require clarity and foresight. You should not jeopardize your relationships with your friends, co-workers, colleagues or other allies. Your anonymity and privacy should not harm them or negatively affect your life.
+Privacy decisions require clarity and foresight. **You should not jeopardize your relationships with your friends, colleagues or other allies.** Your anonymity and privacy should not harm them or negatively affect your life and interactions with them.
+
+<img width="60" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/gothwink.gif"> 
 
 ### What if you're already well-known and popular?
 
