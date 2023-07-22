@@ -30,7 +30,7 @@ Privacy advertisements, advocates, tools, programs are all fundamentally flawed.
 
 <br>
 
-## Tactically identify friends and foes, a reality check <img width="60" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/yangfingerguns.gif"> 
+## Tactically identify friends and foes, a reality check <img width="70" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/yangfingerguns.gif"> 
 
 One of the first steps to protect your privacy is to identify who you want to hide from and who you can trust, based on your personal goals and values. This will help you choose the appropriate tools and strategies to safeguard your information and avoid unnecessary risks. You need to decide a level of privacy for yourself to adhere to.
 
