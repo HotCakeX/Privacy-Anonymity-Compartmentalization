@@ -1,0 +1,7 @@
+<Configuration>
+<LogonCommand>
+<Command>tzutil /s "Myanmar Standard Time"</Command>
+</LogonCommand>
+<MemoryInMB>2000</MemoryInMB>
+<ProtectedClient>enable</ProtectedClient>
+</Configuration>

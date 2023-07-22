@@ -1,0 +1,3 @@
+In the .wsb file, change the username "HotCakeX" in this line:
+<HostFolder>C:\Users\HotCakeX\Downloads</HostFolder>
+to your own Windows account username

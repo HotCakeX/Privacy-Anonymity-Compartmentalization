@@ -1,0 +1,17 @@
+<Configuration>
+<MemoryInMB>3000</MemoryInMB>
+
+<ProtectedClient>enable</ProtectedClient>
+
+ <MappedFolders>
+    <MappedFolder>
+      <HostFolder>F:\Tor Browser</HostFolder>
+      <SandboxFolder>C:\TorBrowser</SandboxFolder>
+      <ReadOnly>false</ReadOnly>
+    </MappedFolder>
+  </MappedFolders>
+
+<LogonCommand>
+  <Command>powershell.exe -ExecutionPolicy Bypass -File "C:\TorBrowser\TorBrowser.ps1"</Command>
+  </LogonCommand>
+</Configuration>

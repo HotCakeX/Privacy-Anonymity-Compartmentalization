@@ -1,0 +1,26 @@
+<Configuration>
+<MemoryInMB>6000</MemoryInMB>
+<Networking>disable</Networking>
+
+<MappedFolders>
+
+  <MappedFolder> 
+    <HostFolder>F:\Adobe Photoshop\Program Files (x86)</HostFolder> 
+    <SandboxFolder>C:\Program Files (x86)</SandboxFolder> 
+    <ReadOnly>true</ReadOnly>
+     </MappedFolder>
+
+       <MappedFolder> 
+    <HostFolder>F:\Adobe Photoshop\Program Files</HostFolder> 
+    <SandboxFolder>C:\Program Files</SandboxFolder>
+     <ReadOnly>true</ReadOnly>
+     </MappedFolder>
+  
+</MappedFolders>
+
+<LogonCommand>
+  <Command>powershell.exe -ExecutionPolicy Bypass -File "C:\Program Files\Photoshop.ps1" </Command>
+  
+</LogonCommand>
+
+</Configuration>

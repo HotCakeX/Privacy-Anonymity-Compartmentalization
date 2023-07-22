@@ -1,0 +1,14 @@
+<Configuration>
+<LogonCommand>
+<Command>tzutil /s "Pacific Standard Time"</Command>
+</LogonCommand>
+<MemoryInMB>4000</MemoryInMB>
+<ProtectedClient>enable</ProtectedClient>
+ <MappedFolders>
+    <MappedFolder>
+      <HostFolder>C:\Users\HotCakeX\Downloads</HostFolder>
+      <SandboxFolder>C:\Users\WDAGUtilityAccount\Desktop\Downloads</SandboxFolder>
+      <ReadOnly>true</ReadOnly>
+    </MappedFolder>
+  </MappedFolders>
+</Configuration>

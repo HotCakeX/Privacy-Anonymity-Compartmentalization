@@ -1,0 +1,39 @@
+| Time Zone | Countries or Regions |
+| --- | --- |
+| UTC+00:00 | United Kingdom, Ireland, Portugal, Senegal, Ghana, etc. |
+| UTC+01:00 | France, Germany, Spain, Italy, Poland, Nigeria, Algeria, etc. |
+| UTC+02:00 | Greece, Turkey, Romania, Bulgaria, Ukraine, Egypt, South Africa, etc. |
+| UTC+03:00 | Kenya, Ethiopia, Saudi Arabia, Iraq, Russia (Kaliningrad), etc. |
+| UTC+03:30 | Iran |
+| UTC+04:00 | Armenia, Azerbaijan, Georgia, Oman, United Arab Emirates, Russia (Astrakhan), etc. |
+| UTC+04:30 | Afghanistan |
+| UTC+05:00 | Pakistan, Uzbekistan, Turkmenistan, Tajikistan, Russia (Samara), etc. |
+| UTC+05:30 | India, Sri Lanka |
+| UTC+06:00 | Bangladesh, Kazakhstan, Kyrgyzstan, Russia (Omsk), etc. |
+| UTC+06:30 | Myanmar, Cocos (Keeling) Islands |
+| UTC+07:00 | Thailand, Vietnam, Cambodia, Laos, Indonesia (Western), Russia (Krasnoyarsk), etc. |
+| UTC+08:00 | China, Mongolia, Malaysia, Singapore, Philippines, Indonesia (Central), Russia (Irkutsk), etc. |
+| UTC+08:45 | Eucla (Australia) |
+| UTC+09:00 | Japan, Korea (North and South), Indonesia (Eastern), Russia (Yakutsk), etc. |
+| UTC+09:30 | Australia (Central) |
+| UTC+10:00 | Australia (Eastern) |
+| UTC+10:30 | Lord Howe Island (Australia) |
+| UTC+11:00 | Norfolk Island (Australia), Solomon Islands |
+| UTC+12:00 | New Zealand, Fiji |
+| UTC+12:45 | Chatham Islands (New Zealand) |
+| UTC-12:00 | Baker Island, Howland Island (USA) |
+| UTC-11:00 | American Samoa, Niue (New Zealand) |
+| UTC-10:00 | Hawaii, Cook Islands (New Zealand) |
+| UTC-09:30 | Marquesas Islands (French Polynesia)|
+| UTC-09:00 | Alaska, Gambier Islands (French Polynesia)|
+| UTC-08:00 | Pacific Time (USA and Canada), Pitcairn Islands (UK)|
+| UTC-07:00 | Mountain Time (USA and Canada), Baja California (Mexico) |
+| UTC-06:00 | Central Time (USA and Canada), Central America, Mexico |
+| UTC-05:00 | Eastern Time (USA and Canada), Colombia, Peru, Ecuador |
+| UTC-04:30 | Venezuela |
+| UTC-04:00 | Atlantic Time (Canada), Bolivia, Brazil (Western), Chile, Paraguay |
+| UTC-03:30 | Newfoundland (Canada) |
+| UTC-03:00 | Argentina, Brazil (Eastern), Greenland (Eastern), Uruguay |
+| UTC-02:00 | South Georgia and the South Sandwich Islands (UK) |
+| UTC-01:00 | Cabo Verde, Azores (Portugal), Ittoqqortoormiit (Greenland) |
+

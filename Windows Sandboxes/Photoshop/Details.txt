@@ -1,0 +1,4 @@
+Location of the required files
+
+"F:\Adobe Photoshop\Program Files\VC_redist.x64.exe"
+"F:\Adobe Photoshop\Program Files\Photoshop.ps1"
