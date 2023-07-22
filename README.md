@@ -36,7 +36,7 @@ One of the first steps to protect your privacy is to identify who you want to hi
 
 You cannot stay private and hidden from agencies with global reach such as NSA, CIA, Mossad and other western intelligence agencies, the same people that prevent the civilized part of the world from turning into terrorists' paradise. If they **really** want you, then there must be good reason(s) for it, and they can get you anywhere you go.
 
-As a privacy-conscious person, you should be clear and discerning about who your allies and adversaries are. You should not look at the subject from a single point of view and fail to see the bigger picture which is the real world and what happens in it.
+As a privacy-conscious person, you should be clear and discerning about who your [^1]allies and adversaries are. You should not look at the subject from a single point of view and fail to see the bigger picture which is the real world and what happens in it.
 
 </p>
 
@@ -44,7 +44,7 @@ As a privacy-conscious person, you should be clear and discerning about who your
 
 <br>
 
-## Let's talk about Tor - including all software and tools that utilize Tor network <img width="60" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/qynoano.gif">
+## Let's talk about Tor - including all software and tools that utilize Tor network <img width="70" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/qynoano.gif">
 
 Tor network is an inherently defective privacy instrument. It’s vulnerable, its traffic is readily identified, severely limited or blocked. It’s a partial solution that is not even accessible to everyone. That includes any pluggable transports and bridges of any types.
 
@@ -164,3 +164,6 @@ You can also use Hyper-V VMs for long-term use cases, it’s a great, safe and o
 #### [Refer to this GitHub repository](https://github.com/HotCakeX/Harden-Windows-Security) for proper security guidelines and tools.
 
 <br>
+
+[^1]: close friends, co-workers, colleagues etc. are alies too.
+
