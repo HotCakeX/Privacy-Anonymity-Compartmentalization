@@ -44,7 +44,7 @@ As a privacy-conscious person, you should be clear and discerning about who your
 
 <br>
 
-## Let's talk about Tor - including all software and tools that utilize Tor network <img width="70" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/qynoano.gif">
+## Let's talk about Tor - including all software and tools that utilize Tor network <img width="60" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/qynoano.gif">
 
 Tor network is an inherently defective privacy instrument. It’s vulnerable, its traffic is readily identified, severely limited or blocked. It’s a partial solution that is not even accessible to everyone. That includes any pluggable transports and bridges of any types.
 
