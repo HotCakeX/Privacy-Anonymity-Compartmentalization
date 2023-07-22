@@ -165,5 +165,5 @@ You can also use Hyper-V VMs for long-term use cases, it’s a great, safe and o
 
 <br>
 
-[^1]: close friends, co-workers, colleagues etc. are alies too.
+[^1]: close friends, co-workers, colleagues etc. are allies too.
 
