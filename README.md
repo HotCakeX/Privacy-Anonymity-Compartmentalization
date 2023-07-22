@@ -36,7 +36,15 @@ One of the first steps to protect your privacy is to identify who you want to hi
 
 You cannot stay private and hidden from agencies with global reach such as NSA, CIA, Mossad and other western intelligence agencies, the same people that prevent the civilized part of the world from turning into terrorists' paradise. If they **really** want you, then there must be good reason(s) for it, and they can get you anywhere you go.
 
-As a privacy-conscious person, you should be clear and discerning about who your [^1]allies and adversaries are. You should not look at the subject from a single point of view and fail to see the bigger picture which is the real world and what happens in it.
+As a privacy-conscious person, you should be clear and discerning about who your allies and adversaries are. You should not look at the subject from a single point of view and fail to see the bigger picture which is the real world and what happens in it.
+
+### Why tactically?
+
+Privacy decisions require clarity and foresight. You should not jeopardize your relationships with your friends, co-workers, colleagues or other allies. Your anonymity and privacy should not harm them or negatively affect your life.
+
+### What if you're already well-known and popular?
+
+This is a tricky situation that deserves a separate post, but in short, if you’re already famous and have a large following, then it’s hard to erase your digital footprint. **This is not necessarily a bad thing.** Anonymity is not for everyone and people have different preferences and goals. This post just explores one of the many possible lifestyles.
 
 </p>
 
@@ -164,6 +172,3 @@ You can also use Hyper-V VMs for long-term use cases, it’s a great, safe and o
 #### [Refer to this GitHub repository](https://github.com/HotCakeX/Harden-Windows-Security) for proper security guidelines and tools.
 
 <br>
-
-[^1]: close friends, co-workers, colleagues etc. are allies too.
-
