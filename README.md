@@ -94,7 +94,7 @@ Therefore, anonymity with this particular mindset is not only futile, but also h
 
 ## <img width="60" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/like.gif"> Anonymity, the right way
 
-Let's be honest, there are misguided people out there: stalkers, trolls, script-kiddies calling themselves anonymous groups, doxxers, criminals, irritating privacy intruding people in general.
+Let's be honest, there are misguided people out there: stalkers, trolls, script-kiddies called anonymous groups, doxxers, criminals, irritating privacy intruding people in general.
 
 To protect yourself from these groups of individuals, you need to take proactive measures. This is the proper type of anonymity and one that is the most advantageous.
 
