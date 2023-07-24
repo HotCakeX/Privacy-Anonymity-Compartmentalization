@@ -1,4 +1,8 @@
 <Configuration>
+<vGPU>disable</vGPU>
+<AudioInput>disable</AudioInput>
+<VideoInput>disable</VideoInput>
+<PrinterRedirection>disable</PrinterRedirection>
 <LogonCommand>
 <Command>tzutil /s "Pacific Standard Time"</Command>
 </LogonCommand>
