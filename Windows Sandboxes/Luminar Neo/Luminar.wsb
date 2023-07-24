@@ -1,20 +1,14 @@
 <Configuration>
-
 <MemoryInMB>6000</MemoryInMB>
 <Networking>disable</Networking>
-
+<vGPU>Enable</vGPU>
 <MappedFolders>
   <MappedFolder> 
     <HostFolder>F:\Luminar</HostFolder> 
-    <SandboxFolder>C:\Users\WDAGUtilityAccount\Desktop\luminar</SandboxFolder> 
-     
-  </MappedFolder>
-  
+    <SandboxFolder>C:\Users\WDAGUtilityAccount\Desktop\luminar</SandboxFolder>      
+  </MappedFolder>  
 </MappedFolders>
-
 <LogonCommand>
-  <Command>powershell.exe -ExecutionPolicy Bypass -File "C:\Users\WDAGUtilityAccount\Desktop\luminar\Luminar.ps1" </Command>
-  
+  <Command>powershell.exe -ExecutionPolicy Bypass -File "C:\Users\WDAGUtilityAccount\Desktop\luminar\Luminar.ps1" </Command>  
 </LogonCommand>
-
 </Configuration>
