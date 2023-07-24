@@ -1,6 +1,10 @@
 <Configuration>
 <MemoryInMB>3000</MemoryInMB>
 
+<vGPU>disable</vGPU>
+<AudioInput>disable</AudioInput>
+<VideoInput>disable</VideoInput>
+<PrinterRedirection>disable</PrinterRedirection>
 <ProtectedClient>enable</ProtectedClient>
 
  <MappedFolders>
