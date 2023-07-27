@@ -5,6 +5,7 @@
 <VideoInput>disable</VideoInput>
 <PrinterRedirection>disable</PrinterRedirection>
 <ProtectedClient>enable</ProtectedClient>
+<ClipboardRedirection>disable</ClipboardRedirection>
  <MappedFolders>
     <MappedFolder>
       <HostFolder>F:\Tor Browser</HostFolder>

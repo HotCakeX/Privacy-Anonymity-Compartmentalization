@@ -7,6 +7,7 @@
 <Command>tzutil /s "Pacific Standard Time"</Command>
 </LogonCommand>
 <MemoryInMB>4000</MemoryInMB>
+<ClipboardRedirection>disable</ClipboardRedirection>
 <ProtectedClient>enable</ProtectedClient>
  <MappedFolders>
     <MappedFolder>
