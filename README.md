@@ -153,6 +153,8 @@ You can use them for any task that you like, you can combine the configurations,
 
 * [Config](https://github.com/HotCakeX/Privacy-Anonymity-Compartmentalization/tree/main/Windows%20Sandboxes/Tor%20browser) that launches Tor browser in Windows Sandbox, 3GB RAM.
 
+* [Config](https://github.com/HotCakeX/Privacy-Anonymity-Compartmentalization/tree/main/Windows%20Sandboxes) that launches Tor browser in Windows Sandbox, 3GB RAM, Copy&Paste allowed.
+
 * [Config](https://github.com/HotCakeX/Privacy-Anonymity-Compartmentalization/tree/main/Windows%20Sandboxes/Downloads%20Folder%20Detonation%20Chamber) for Downloads Folder Detonation Chamber, automatically maps the host’s Downloads folder in read-only mode, 4GB RAM.
 
 * [Config](https://github.com/HotCakeX/Privacy-Anonymity-Compartmentalization/tree/main/Windows%20Sandboxes/Photoshop) for Photoshop (latest version, currently 2023), 6GB RAM. With Windows Sandbox’s GPU paravirtualization, graphics-intensive programs can run smoothly and isolated in it. No internet connection.
