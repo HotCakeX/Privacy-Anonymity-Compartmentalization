@@ -7,7 +7,7 @@
 <ProtectedClient>enable</ProtectedClient>
  <MappedFolders>
     <MappedFolder>
-      <HostFolder>F:\Tor Browser</HostFolder>
+      <HostFolder>E:\Tor Browser</HostFolder>
       <SandboxFolder>C:\TorBrowser</SandboxFolder>
       <ReadOnly>true</ReadOnly>
     </MappedFolder>

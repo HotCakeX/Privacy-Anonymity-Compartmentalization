@@ -4,7 +4,7 @@
 <VideoInput>disable</VideoInput>
 <PrinterRedirection>disable</PrinterRedirection>
 <LogonCommand>
-<Command>tzutil /s "Pacific Standard Time"</Command>
+<Command>tzutil /s "Chatham Islands Standard Time"</Command>
 </LogonCommand>
 <MemoryInMB>4000</MemoryInMB>
 <ClipboardRedirection>disable</ClipboardRedirection>
