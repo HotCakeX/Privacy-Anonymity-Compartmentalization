@@ -127,6 +127,10 @@ Moreover, be aware of the company the software or online service that you use be
 
 Be cautious about other companies that offer free products and services. if something is free, then you and your data is the price that you are paying, unknowingly.
 
+### OSINT
+
+When I want to remedy a problem, I usually address the root cause of it. By securing your privacy and anonymity in such fundamental ways described in this guide, you automatically address a lot of other things such as OSINT, which stands for Open source intelligence, and relies on whatever data available on the Internet. You are nullifying their data about you without them even noticing, and that is definitely one of the goals.
+
 </p>
 
 <img src="https://github.com/HotCakeX/Harden-Windows-Security/raw/main/images/Gifs/1pxRainbowLine.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
