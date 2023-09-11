@@ -4,7 +4,7 @@
 <vGPU>Enable</vGPU>
 <MappedFolders>
   <MappedFolder> 
-    <HostFolder>F:\Luminar</HostFolder> 
+    <HostFolder>E:\Luminar</HostFolder> 
     <SandboxFolder>C:\Users\WDAGUtilityAccount\Desktop\luminar</SandboxFolder>      
   </MappedFolder>  
 </MappedFolders>

@@ -18,7 +18,7 @@ I hope you find this repository useful and informative. <img width="60" src="htt
 
 <br>
 
-## <img width="50" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/blue.gif"> Privacy and the illusion surrounding it
+## <img width="50" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/blue.gif"> Privacy and the Illusion Surrounding It
 
 In today's day and age, privacy is a bottomless pit. As long as you are connected to the Internet, your every online activity is monitored or recorded by some entity or person somewhere in the world. The only escape from that is to renounce all electronic devices and dwell in a shielded underground chamber.
 
@@ -30,7 +30,7 @@ Privacy advertisements, advocates, tools, programs are all fundamentally flawed.
 
 <br>
 
-## Tactically identify friends and foes, a reality check <img width="70" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/yangfingerguns.gif"> 
+## Tactically Identify Friends and Foes, a Reality Check <img width="70" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/yangfingerguns.gif"> 
 
 One of the first steps to protect your privacy is to identify who you want to hide from and who you can trust, based on your personal goals and values. This will help you choose the appropriate tools and strategies to safeguard your information and avoid unnecessary risks. You need to decide a level of privacy for yourself to adhere to.
 
@@ -38,13 +38,13 @@ You cannot stay private and hidden from agencies with global reach such as NSA, 
 
 As a privacy-conscious person, you should be clear and discerning about who your allies and adversaries are. You should not look at the subject from a single point of view and fail to see the bigger picture which is the real world and what happens in it.
 
-### Why tactically?
+### Why Tactically?
 
 Privacy decisions require clarity and foresight. **You should not jeopardize your relationships with your friends, colleagues or other allies.** Your anonymity and privacy should not harm them or negatively affect your life and interactions with them.
 
 <img width="60" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/gothwink.gif"> 
 
-### What if you're already well-known and popular?
+### What if You’re Already Well-Known and Popular?
 
 This is a tricky situation that deserves a separate post, but in short, if you’re already famous and have a large following, then it’s hard to erase your digital footprint. **This is not necessarily a bad thing.** Anonymity is not for everyone and people have different preferences and goals. This post just explores one of the many possible lifestyles.
 
@@ -54,7 +54,7 @@ This is a tricky situation that deserves a separate post, but in short, if you�
 
 <br>
 
-## Let's talk about Tor - including all software and tools that utilize Tor network <img width="70" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/qynoano.gif">
+## Let’s Talk About Tor - Including All Software and Tools That Utilize Tor Network <img width="70" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/qynoano.gif">
 
 Tor network is an inherently defective privacy instrument. It’s vulnerable, its traffic is readily identified, severely limited or blocked. It’s a partial solution that is not even accessible to everyone. That includes any pluggable transports and bridges of any types.
 
@@ -80,7 +80,7 @@ So where does that leave us? Using Tor in free western countries. Now the questi
 
 <br>
 
-## Anonymity, the wrong way <img width="50" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/dead.gif">
+## Anonymity, the Wrong Way <img width="50" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/dead.gif">
 
 Anonymity with the aim of facilitating and using tools to try to stay undetected from the western intelligence agencies can hurt the security. Terrorists and threat actors shouldn't be undetectable, under the radar or be able to keep a low profile. Their actions and plans should always be visible.
 
@@ -92,7 +92,7 @@ Therefore, anonymity with this particular mindset is not only futile, but also h
 
 <br>
 
-## <img width="60" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/like.gif"> Anonymity, the right way
+## <img width="60" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/like.gif"> Anonymity, the Right Way
 
 Let's be honest, there are misguided people out there: stalkers, trolls, script-kiddies called anonymous groups, doxxers, criminals, irritating privacy intruding people in general.
 
@@ -106,7 +106,7 @@ Always remember this fact: Those people can only know as much about you as you p
 
 <br>
 
-## Anonymity through obscurity <img width="65" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/chika%20suggestive.gif">
+## Anonymity Through Obscurity <img width="65" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/chika%20suggestive.gif">
 
 We talked about anonymity, the right way. So how can we achieve this anonymity exactly? **By embracing anonymity through Obscurity.**
 
@@ -175,7 +175,7 @@ You can also use Hyper-V VMs for long-term use cases, it’s a great, safe and o
 
 <br>
 
-## <img width="65" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/arrow-pink.gif"> Continue reading about Security
+## <img width="65" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/arrow-pink.gif"> Continue Reading About Security
 
 #### [Refer to this GitHub repository](https://github.com/HotCakeX/Harden-Windows-Security) for proper security guidelines and tools.
 
