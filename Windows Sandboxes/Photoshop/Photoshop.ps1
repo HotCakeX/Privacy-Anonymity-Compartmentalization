@@ -7,9 +7,9 @@ $WshShell = New-Object -comObject WScript.Shell
 
 $Shortcut = $WshShell.CreateShortcut("C:\Users\WDAGUtilityAccount\Desktop\Photoshop.lnk") 
 
-$Shortcut.TargetPath = "C:\Program Files\Adobe\Adobe Photoshop 2023\Photoshop.exe"
+$Shortcut.TargetPath = "C:\Program Files\Adobe\Adobe Photoshop 2024\Photoshop.exe"
 
 $Shortcut.Save() 
 
-& "C:\Program Files\Adobe\Adobe Photoshop 2023\Photoshop.exe"
+& "C:\Program Files\Adobe\Adobe Photoshop 2024\Photoshop.exe"
 
