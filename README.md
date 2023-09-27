@@ -54,7 +54,7 @@ This is a tricky situation that deserves a separate post, but in short, if you�
 
 <br>
 
-## Let’s Talk About Tor - Including All Software and Tools That Utilize Tor Network <img width="70" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/qynoano.gif">
+## [Let’s Talk About Tor - Including All Software and Tools That Utilize Tor Network](#lets-talk-about-tor---including-all-software-and-tools-that-utilize-tor-network-) <img width="70" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/qynoano.gif">
 
 Tor network is an inherently defective privacy instrument. It’s vulnerable, its traffic is readily identified, severely limited or blocked. It’s a partial solution that is not even accessible to everyone. That includes any pluggable transports and bridges of any types.
 
@@ -80,7 +80,7 @@ So where does that leave us? Using Tor in free western countries. Now the questi
 
 <br>
 
-## Anonymity, the Wrong Way <img width="50" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/dead.gif">
+## [Anonymity, the Wrong Way](#anonymity-the-wrong-way-) <img width="50" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/dead.gif">
 
 Anonymity with the aim of facilitating and using tools to try to stay undetected from the western intelligence agencies can hurt the security. Terrorists and threat actors shouldn't be undetectable, under the radar or be able to keep a low profile. Their actions and plans should always be visible.
 
@@ -92,7 +92,7 @@ Therefore, anonymity with this particular mindset is not only futile, but also h
 
 <br>
 
-## <img width="60" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/like.gif"> Anonymity, the Right Way
+## <img width="60" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/like.gif"> [Anonymity, the Right Way](#-anonymity-the-right-way)
 
 Let's be honest, there are misguided people out there: stalkers, trolls, script-kiddies called anonymous groups, doxxers, criminals, irritating privacy intruding people in general.
 
@@ -106,7 +106,7 @@ Always remember this fact: Those people can only know as much about you as you p
 
 <br>
 
-## Anonymity Through Obscurity <img width="65" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/chika%20suggestive.gif">
+## [Anonymity Through Obscurity](#anonymity-through-obscurity-) <img width="65" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/chika%20suggestive.gif">
 
 We talked about anonymity, the right way. So how can we achieve this anonymity exactly? **By embracing anonymity through Obscurity.**
 
@@ -137,7 +137,7 @@ When I want to remedy a problem, I usually address the root cause of it. By secu
 
 <br>
 
-## Windows Sandbox <img width="65" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/diamond-7.gif">
+## [Windows Sandbox](#windows-sandbox-) <img width="65" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/diamond-7.gif">
 
 Windows Sandbox is a useful environment for using software without ruining your system. It provides a pristine, disposable and secure place that replicates your host OS.
 
@@ -175,7 +175,7 @@ You can also use Hyper-V VMs for long-term use cases, it’s a great, safe and o
 
 <br>
 
-## <img width="65" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/arrow-pink.gif"> Continue Reading About Security
+## <img width="65" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/arrow-pink.gif"> [Continue Reading About Security](#-continue-reading-about-security)
 
 #### [Refer to this GitHub repository](https://github.com/HotCakeX/Harden-Windows-Security) for proper security guidelines and tools.
 
