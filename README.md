@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/skullheart.gif"> Privacy, Anonymity and Compartmentalization
+# <img src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/skullheart.gif"> [Privacy, Anonymity and Compartmentalization](#-privacy-anonymity-and-compartmentalization)
 
 This GitHub repository explores the topics of privacy, anonymity and compartmentalization. These concepts are interrelated and essential for protecting one’s identity, data and online activities from unwanted surveillance, tracking and interference.
 
@@ -18,7 +18,7 @@ I hope you find this repository useful and informative. <img width="60" src="htt
 
 <br>
 
-## <img width="50" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/blue.gif"> Privacy and the Illusion Surrounding It
+## <img width="50" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/blue.gif"> [Privacy and the Illusion Surrounding It](#-privacy-and-the-illusion-surrounding-it)
 
 In today's day and age, privacy is a bottomless pit. As long as you are connected to the Internet, your every online activity is monitored or recorded by some entity or person somewhere in the world. The only escape from that is to renounce all electronic devices and dwell in a shielded underground chamber.
 
@@ -30,7 +30,7 @@ Privacy advertisements, advocates, tools, programs are all fundamentally flawed.
 
 <br>
 
-## Tactically Identify Friends and Foes, a Reality Check <img width="70" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/yangfingerguns.gif"> 
+## [Tactically Identify Friends and Foes, a Reality Check](#tactically-identify-friends-and-foes-a-reality-check-) <img width="70" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/yangfingerguns.gif"> 
 
 One of the first steps to protect your privacy is to identify who you want to hide from and who you can trust, based on your personal goals and values. This will help you choose the appropriate tools and strategies to safeguard your information and avoid unnecessary risks. You need to decide a level of privacy for yourself to adhere to.
 
