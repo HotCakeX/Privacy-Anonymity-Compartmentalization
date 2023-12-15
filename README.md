@@ -30,7 +30,7 @@ Privacy advertisements, advocates, tools, programs are all fundamentally flawed.
 
 <br>
 
-## [Tactically Identify Friends and Foes, a Reality Check](#tactically-identify-friends-and-foes-a-reality-check-) <img width="70" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/yangfingerguns.gif"> 
+## [Tactically Identify Friends and Foes, a Reality Check](#tactically-identify-friends-and-foes-a-reality-check-) <img width="70" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/yangfingerguns.gif">
 
 One of the first steps to protect your privacy is to identify who you want to hide from and who you can trust, based on your personal goals and values. This will help you choose the appropriate tools and strategies to safeguard your information and avoid unnecessary risks. You need to decide a level of privacy for yourself to adhere to.
 
@@ -42,7 +42,7 @@ As a privacy-conscious person, you should be clear and discerning about who your
 
 Privacy decisions require clarity and foresight. **You should not jeopardize your relationships with your friends, colleagues or other allies.** Your anonymity and privacy should not harm them or negatively affect your life and interactions with them.
 
-<img width="60" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/gothwink.gif"> 
+<img width="60" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/gothwink.gif">
 
 ### What if You’re Already Well-Known and Popular?
 
@@ -62,13 +62,13 @@ Tor is intended to be used by the citizens of the countries with authoritarian, 
 
 In those countries, where people’s and journalists’ lives are in peril, where activists and regular citizens need free access to the Information flow to share information, Tor is the prime target for swift blocking. Tor's traffic is the first thing that usually gets blocked in a repressive country or when an uprising happens.
 
-So what is the purpose of Tor when you can't use it in the most important situations, where your life depends on it? 
+So what is the purpose of Tor when you can't use it in the most important situations, where your life depends on it?
 
 Tor network fails to safeguard people’s anonymity because its traffic reveals that the user is employing Tor and arouses undue attention, it doesn't protect freedom of expression because it simply doesn't work in places where it's most needed, thus it can't help people access censored or restricted information. This is the reason for the emergence of new tools and protocols such as Xray, V2ray, VLess and so on.
 
 All of this demonstrates how ineffectual Tor network and any software depending on Tor network is. That encompasses OSes such as Whonix that assert to preserve your anonymity and so forth.
 
-In my tests, on a perfectly uncensored and fast Internet connection, one of the simplest operations in Whonix, which is synching system time over Tor network, takes at least 2 minutes, and that's just in the first few days. After that, half of the time the time sync fails completely and shows errors, effectively preventing from using the OS because anything you want to do, including syncing data or any useful task at all that requires a correct system time, would lead to data loss, which did happen to me in my tests. 
+In my tests, on a perfectly uncensored and fast Internet connection, one of the simplest operations in Whonix, which is synching system time over Tor network, takes at least 2 minutes, and that's just in the first few days. After that, half of the time the time sync fails completely and shows errors, effectively preventing from using the OS because anything you want to do, including syncing data or any useful task at all that requires a correct system time, would lead to data loss, which did happen to me in my tests.
 
 It’s a very poor idea to construct an entire OS founded on a network like Tor that solely employs TCP, has very high latency, is unreliable and its traffic is easily identified and blocked.
 

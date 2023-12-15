@@ -1,12 +1,12 @@
 
-# add Luminar apps's shortcut to desktop of Windows Sandbox 
-$WshShell = New-Object -comObject WScript.Shell 
+# add Luminar apps's shortcut to desktop of Windows Sandbox
+$WshShell = New-Object -comObject WScript.Shell
 
-$Shortcut = $WshShell.CreateShortcut("C:\Users\WDAGUtilityAccount\Desktop\luminar.lnk") 
+$Shortcut = $WshShell.CreateShortcut("C:\Users\WDAGUtilityAccount\Desktop\luminar.lnk")
 
-$Shortcut.TargetPath = "C:\Users\WDAGUtilityAccount\Desktop\luminar\Luminar Neo.exe" 
+$Shortcut.TargetPath = "C:\Users\WDAGUtilityAccount\Desktop\luminar\Luminar Neo.exe"
 
-$Shortcut.Save() 
+$Shortcut.Save()
 
 # launches Luminar for the 1st time
 cd "C:\Users\WDAGUtilityAccount\Desktop\luminar" ; .\"Luminar Neo.exe"
