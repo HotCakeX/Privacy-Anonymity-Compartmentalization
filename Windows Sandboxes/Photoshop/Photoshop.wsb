@@ -6,13 +6,13 @@
 <MappedFolders>
 
   <MappedFolder>
-    <HostFolder>J:\Adobe Photoshop\Program Files (x86)</HostFolder>
+    <HostFolder>G:\Adobe Photoshop\Program Files (x86)</HostFolder>
     <SandboxFolder>C:\Program Files (x86)</SandboxFolder>
     <ReadOnly>true</ReadOnly>
      </MappedFolder>
 
        <MappedFolder>
-    <HostFolder>J:\Adobe Photoshop\Program Files</HostFolder>
+    <HostFolder>G:\Adobe Photoshop\Program Files</HostFolder>
     <SandboxFolder>C:\Program Files</SandboxFolder>
      <ReadOnly>true</ReadOnly>
      </MappedFolder>

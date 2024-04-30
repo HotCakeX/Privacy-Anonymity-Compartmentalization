@@ -1,0 +1,14 @@
+<Configuration>
+<MemoryInMB>6000</MemoryInMB>
+<Networking>disable</Networking>
+<vGPU>Enable</vGPU>
+<MappedFolders>
+  <MappedFolder>
+    <HostFolder>J:\Luminar Neo</HostFolder>
+    <SandboxFolder>C:\Users\WDAGUtilityAccount\Desktop\Luminar Neo</SandboxFolder>
+  </MappedFolder>
+</MappedFolders>
+<LogonCommand>
+  <Command>powershell.exe -ExecutionPolicy Bypass -File "C:\Users\WDAGUtilityAccount\Desktop\Luminar Neo\Luminar Neo.ps1" </Command>
+</LogonCommand>
+</Configuration>
