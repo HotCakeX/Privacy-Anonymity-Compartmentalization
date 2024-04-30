@@ -1,16 +1,16 @@
 # <img src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/skullheart.gif"> [Privacy, Anonymity and Compartmentalization](#-privacy-anonymity-and-compartmentalization)
 
-This GitHub repository explores the topics of privacy, anonymity and compartmentalization. These concepts are interrelated and essential for protecting one’s identity, data and online activities from unwanted surveillance, tracking and interference.
+This GitHub repository explores the topics of privacy, anonymity and compartmentalization. These concepts are interrelated and essential for protecting one's identity, data and online activities from unwanted surveillance, tracking, interference and bad actors.
 
-First, we discuss privacy, which is the right to control what information is collected and shared about oneself. Privacy is important for maintaining personal autonomy, dignity and security.
+First, we discuss privacy, which is the right to control what information is collected and shared about oneself. Privacy is important for maintaining personal autonomy, dignity and security. We also discuss what the right mindset and approach is to privacy.
 
 Next, we cover anonymity, which is the state of being unknown or unidentifiable by others.
 
-Finally, we introduce compartmentalization, which is the practice of separating different aspects of one’s life or identity into distinct compartments or personas.
+Finally, we introduce compartmentalization, which is the practice of separating different aspects of one's life or identity into distinct compartments or personas.
 
-Specifically, I will show you how to compartmentalize software in Windows using virtualization technology. Virtualization is a technique that allows you to run multiple operating systems or applications on a single physical machine, isolated from each other.
+Lastly, I will show you how to compartmentalize software in Windows using virtualization technology. Virtualization is a technique that allows you to run multiple operating systems or applications on a single physical machine, isolated from each other.
 
-I hope you find this repository useful and informative. <img width="60" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/qynoanod.gif">
+I hope you find this repository useful and informative. <img width="40" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/qynoanod.gif">
 
 </p>
 
@@ -18,9 +18,9 @@ I hope you find this repository useful and informative. <img width="60" src="htt
 
 <br>
 
-## <img width="50" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/blue.gif"> [Privacy and the Illusion Surrounding It](#-privacy-and-the-illusion-surrounding-it)
+## <img width="40" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/blue.gif"> [Privacy and the Illusion Surrounding It](#-privacy-and-the-illusion-surrounding-it)
 
-In today's day and age, privacy is a bottomless pit. As long as you are connected to the Internet, your every online activity is monitored or recorded by some entity or person somewhere in the world. The only escape from that is to renounce all electronic devices and dwell in a shielded underground chamber.
+In today's day and age, privacy is a bottomless pit. As long as you are connected to the Internet, your online activity is monitored or recorded at least by some entity or person somewhere in the world, either intentionally or through bulk data collection. The only escape from that is to renounce all electronic devices and dwell in a shielded underground chamber.
 
 Privacy advertisements, advocates, tools, programs are all fundamentally flawed.
 
@@ -30,9 +30,9 @@ Privacy advertisements, advocates, tools, programs are all fundamentally flawed.
 
 <br>
 
-## [Tactically Identify Friends and Foes, a Reality Check](#tactically-identify-friends-and-foes-a-reality-check-) <img width="70" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/yangfingerguns.gif">
+## [Tactically Identify Friends and Foes, a Reality Check](#tactically-identify-friends-and-foes-a-reality-check-) <img width="50" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/yangfingerguns.gif">
 
-One of the first steps to protect your privacy is to identify who you want to hide from and who you can trust, based on your personal goals and values. This will help you choose the appropriate tools and strategies to safeguard your information and avoid unnecessary risks. You need to decide a level of privacy for yourself to adhere to.
+One of the first steps to protect your privacy is to identify and decide who is included in your trusted circle and who falls outside of it, based on your personal goals and values. This will help you choose the appropriate tools and strategies to safeguard your information and avoid unnecessary risks. You need to decide a level of privacy for yourself to adhere to.
 
 You cannot stay private and hidden from agencies with global reach such as NSA, CIA, Mossad and other western intelligence agencies, the same people that prevent the civilized part of the world from turning into terrorists' paradise. If they **really** want you, then there must be good reason(s) for it, and they can get you anywhere you go.
 
@@ -42,11 +42,9 @@ As a privacy-conscious person, you should be clear and discerning about who your
 
 Privacy decisions require clarity and foresight. **You should not jeopardize your relationships with your friends, colleagues or other allies.** Your anonymity and privacy should not harm them or negatively affect your life and interactions with them.
 
-<img width="60" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/gothwink.gif">
+### What if You're Already Well-Known and Popular? <img width="40" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/gothwink.gif">
 
-### What if You’re Already Well-Known and Popular?
-
-This is a tricky situation that deserves a separate post, but in short, if you’re already famous and have a large following, then it’s hard to erase your digital footprint. **This is not necessarily a bad thing.** Anonymity is not for everyone and people have different preferences and goals. This post just explores one of the many possible lifestyles.
+If you're already famous and have a large following, then it's hard to erase your digital footprint. **This is not necessarily a bad thing.** Anonymity is not for everyone and people have different preferences and goals. This post just explores one of the many possible lifestyles.
 
 </p>
 
@@ -54,23 +52,23 @@ This is a tricky situation that deserves a separate post, but in short, if you�
 
 <br>
 
-## [Let’s Talk About Tor - Including All Software and Tools That Utilize Tor Network](#lets-talk-about-tor---including-all-software-and-tools-that-utilize-tor-network-) <img width="70" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/qynoano.gif">
+## [Let's Talk About Tor - Including All Software and Tools That Utilize Tor Network](#lets-talk-about-tor---including-all-software-and-tools-that-utilize-tor-network-) <img width="50" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/qynoano.gif">
 
-Tor network is an inherently defective privacy instrument. It’s vulnerable, its traffic is readily identified, severely limited or blocked. It’s a partial solution that is not even accessible to everyone. That includes any pluggable transports and bridges of any types.
+Tor network is an inherently defective privacy instrument. It's vulnerable, its traffic is readily identified, severely limited or blocked. It's a partial solution that is not even accessible to everyone. That includes any pluggable transports and bridges of any types.
 
-Tor is intended to be used by the citizens of the countries with authoritarian, dictatorial, and oppressive regimes, places where the government is evil and citizens need help to stay private.
+Tor is intended to be used by the citizens of the countries with authoritarian, dictatorial, and oppressive regimes, such as Iran, places where the government is evil and citizens need help to stay private.
 
-In those countries, where people’s and journalists’ lives are in peril, where activists and regular citizens need free access to the Information flow to share information, Tor is the prime target for swift blocking. Tor's traffic is the first thing that usually gets blocked in a repressive country or when an uprising happens.
+In those countries, where people's and journalists' lives are in peril, where activists and regular citizens need free access to the Information flow to share information, Tor is the prime target for swift blocking. Tor's traffic is the first thing that usually gets blocked in a repressive country or when an uprising happens.
 
 So what is the purpose of Tor when you can't use it in the most important situations, where your life depends on it?
 
-Tor network fails to safeguard people’s anonymity because its traffic reveals that the user is employing Tor and arouses undue attention, it doesn't protect freedom of expression because it simply doesn't work in places where it's most needed, thus it can't help people access censored or restricted information. This is the reason for the emergence of new tools and protocols such as Xray, V2ray, VLess and so on.
+Tor network fails to safeguard people's anonymity because its traffic reveals that the user is employing Tor and arouses undue attention, it doesn't protect freedom of expression because it simply doesn't work in places where it's most needed, thus it can't help people access censored or restricted information. This is the reason for the emergence of new tools and protocols such as Xray, V2ray, VLess and so on.
 
 All of this demonstrates how ineffectual Tor network and any software depending on Tor network is. That encompasses OSes such as Whonix that assert to preserve your anonymity and so forth.
 
 In my tests, on a perfectly uncensored and fast Internet connection, one of the simplest operations in Whonix, which is synching system time over Tor network, takes at least 2 minutes, and that's just in the first few days. After that, half of the time the time sync fails completely and shows errors, effectively preventing from using the OS because anything you want to do, including syncing data or any useful task at all that requires a correct system time, would lead to data loss, which did happen to me in my tests.
 
-It’s a very poor idea to construct an entire OS founded on a network like Tor that solely employs TCP, has very high latency, is unreliable and its traffic is easily identified and blocked.
+It's a very poor idea to construct an entire OS founded on a network like Tor that solely employs TCP, has very high latency, is unreliable and its traffic is easily identified and blocked.
 
 So where does that leave us? Using Tor in free western countries. Now the question is, why would you desire to voluntarily use a very sluggish network in a free country with unrestricted flow of information?
 
@@ -92,7 +90,7 @@ Therefore, anonymity with this particular mindset is not only futile, but also h
 
 <br>
 
-## <img width="60" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/like.gif"> [Anonymity, the Right Way](#-anonymity-the-right-way)
+## <img width="50" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/like.gif"> [Anonymity, the Right Way](#-anonymity-the-right-way)
 
 Let's be honest, there are misguided people out there: stalkers, trolls, script-kiddies called anonymous groups, doxxers, criminals, irritating privacy intruding people in general.
 
@@ -106,7 +104,7 @@ Always remember this fact: Those people can only know as much about you as you p
 
 <br>
 
-## [Anonymity Through Obscurity](#anonymity-through-obscurity-) <img width="65" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/chika%20suggestive.gif">
+## [Anonymity Through Obscurity](#anonymity-through-obscurity-) <img width="50" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/chika%20suggestive.gif">
 
 We talked about anonymity, the right way. So how can we achieve this anonymity exactly? **By embracing anonymity through Obscurity.**
 
@@ -123,7 +121,7 @@ They want to get information about you? OK then, provide them information, false
 
 I'm intentionally not going into details about them. Those methods have been proven to be successful on many occasions.
 
-Moreover, be aware of the company the software or online service that you use belongs to. For example, Google is one of the biggest data mining companies in the world, if not the biggest. You desire to advertise your product in the most efficient way? You give it to Google. That's what their business is about. In comparison, a different company like Microsoft, is about providing services, that’s their primary source of income.
+Moreover, be aware of the company the software or online service that you use belongs to. For example, Google is one of the biggest data mining companies in the world, if not the biggest. You desire to advertise your product in the most efficient way? You give it to Google. That's what their business is about. In comparison, a different company like Microsoft, is about providing services, that's their primary source of income.
 
 Be cautious about other companies that offer free products and services. if something is free, then you and your data is the price that you are paying, unknowingly.
 
@@ -137,7 +135,7 @@ When I want to remedy a problem, I usually address the root cause of it. By secu
 
 <br>
 
-## [Windows Sandbox](#windows-sandbox-) <img width="65" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/diamond-7.gif">
+## [Windows Sandbox](#windows-sandbox-) <img width="55" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/diamond-7.gif">
 
 Windows Sandbox is a useful environment for using software without ruining your system. It provides a pristine, disposable and secure place that replicates your host OS.
 
@@ -159,15 +157,15 @@ You can use them for any task that you like, you can combine the configurations,
 
 * [Config](https://github.com/HotCakeX/Privacy-Anonymity-Compartmentalization/tree/main/Windows%20Sandboxes) that launches Tor browser in Windows Sandbox, 3GB RAM, Copy&Paste allowed.
 
-* [Config](https://github.com/HotCakeX/Privacy-Anonymity-Compartmentalization/tree/main/Windows%20Sandboxes/Downloads%20Folder%20Detonation%20Chamber) for Downloads Folder Detonation Chamber, automatically maps the host’s Downloads folder in read-only mode, 4GB RAM.
+* [Config](https://github.com/HotCakeX/Privacy-Anonymity-Compartmentalization/tree/main/Windows%20Sandboxes/Downloads%20Folder%20Detonation%20Chamber) for Downloads Folder Detonation Chamber, automatically maps the host's Downloads folder in read-only mode, 4GB RAM.
 
-* [Config](https://github.com/HotCakeX/Privacy-Anonymity-Compartmentalization/tree/main/Windows%20Sandboxes/Photoshop) for Photoshop (latest version, currently 2023), 6GB RAM. With Windows Sandbox’s GPU paravirtualization, graphics-intensive programs can run smoothly and isolated in it. No internet connection.
+* [Config](https://github.com/HotCakeX/Privacy-Anonymity-Compartmentalization/tree/main/Windows%20Sandboxes/Photoshop) for Photoshop (latest version, currently 2023), 6GB RAM. With Windows Sandbox's GPU paravirtualization, graphics-intensive programs can run smoothly and isolated in it. No internet connection.
 
 * [Config](https://github.com/HotCakeX/Privacy-Anonymity-Compartmentalization/tree/main/Windows%20Sandboxes/Luminar%20Neo) for Luminar (This one is for Luminar Neo), another graphics-intensive program that can run isolated in Windows Sandbox, 6GB RAM. No internet connection.
 
 Those are only a portion of the configs I use, you can create a config for any software.
 
-You can also use Hyper-V VMs for long-term use cases, it’s a great, safe and optimized hypervisor.
+You can also use Hyper-V VMs for long-term use cases, it's a great, safe and optimized hypervisor.
 
 </p>
 
