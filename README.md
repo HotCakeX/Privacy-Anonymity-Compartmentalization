@@ -81,7 +81,7 @@ The Western world faces multifaceted challenges from entities intent on eroding 
 >
 > * [Member of Iranian Influence Network Visited Biden White House Five Times](https://freebeacon.com/national-security/member-of-iranian-influence-network-visited-biden-white-house-five-times/)
 >
-> * [All iranian newspapers and medias displaying the photos of university encampments on their front page, **cheering and Praising them.**](https://twitter.com/JasonMBrodsky/status/1784533271168123276)
+> * [All iranian newspapers **cheering and Praising** chaos and encampments in American Universities](https://twitter.com/JasonMBrodsky/status/1784533271168123276)
 >
 > * [**Great speech**: by Eva Vlaardingerbroek
 ](https://twitter.com/EvaVlaar/status/1784264775574188371)
