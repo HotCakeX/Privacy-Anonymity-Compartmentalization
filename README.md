@@ -94,6 +94,8 @@ The concept of psychological operations (PsyOps) revolves around influencing the
 
 The enemy recognizes their military limitations, so their strategy involves sowing division from within—a path to conquest.
 
+**It is imperative, therefore, to remain alert and well-informed, fortified with veracity and knowledge.**
+
 </p>
 
 <img src="https://github.com/HotCakeX/Harden-Windows-Security/raw/main/images/Gifs/1pxRainbowLine.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
