@@ -1,10 +1,10 @@
 # <img src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/skullheart.gif"> [Privacy, Anonymity and Compartmentalization](#-privacy-anonymity-and-compartmentalization)
 
-This GitHub repository explores the topics of privacy, anonymity and compartmentalization. These concepts are interrelated and essential for protecting one's identity, data and online activities from unwanted surveillance, tracking, interference and bad actors.
+This article explores the topics of privacy, anonymity and compartmentalization. These concepts are interrelated and essential for protecting one's identity, data and online activities from unwanted surveillance, tracking, interference and bad actors.
 
-First, we discuss privacy, which is the right to control what information is collected and shared about oneself. Privacy is important for maintaining personal autonomy, dignity and security. We also discuss what the right mindset and approach is to privacy.
+First, we discuss privacy, which is the right to control what information is collected and shared about oneself. Privacy is important for maintaining personal autonomy, dignity and security. We also discuss what the right mindset and approach is to privacy and how to develop and grow it in yourself.
 
-Next, we cover anonymity, which is the state of being unknown or unidentifiable by others.
+Next, we cover anonymity, which is the state of being unknown or unidentifiable by others. Rather than doing it in a carte blanche way, we discuss how to do it tactically, the right way.
 
 Finally, we introduce compartmentalization, which is the practice of separating different aspects of one's life or identity into distinct compartments or personas.
 
@@ -22,7 +22,7 @@ I hope you find this repository useful and informative. <img width="40" src="htt
 
 In today's day and age, privacy is a bottomless pit. As long as you are connected to the Internet, your online activity is monitored or recorded at least by some entity or person somewhere in the world, either intentionally or through bulk data collection. The only escape from that is to renounce all electronic devices and dwell in a shielded underground chamber.
 
-Privacy advertisements, advocates, tools, programs are all fundamentally flawed.
+Privacy advertisements, advocates, tools, programs are all fundamentally flawed. All they can do at best is to change which entity or company has access to your data. They can't prevent the data from being collected in the first place.
 
 </p>
 
@@ -30,29 +30,7 @@ Privacy advertisements, advocates, tools, programs are all fundamentally flawed.
 
 <br>
 
-## [Tactically Identify Friends and Foes, a Reality Check](#tactically-identify-friends-and-foes-a-reality-check-) <img width="50" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/yangfingerguns.gif">
-
-One of the first steps to protect your privacy is to identify and decide who is included in your trusted circle and who falls outside of it, based on your personal goals and values. This will help you choose the appropriate tools and strategies to safeguard your information and avoid unnecessary risks. You need to decide a level of privacy for yourself to adhere to.
-
-You cannot stay private and hidden from agencies with global reach such as NSA, CIA, Mossad and other western intelligence agencies, the same people that prevent the civilized part of the world from turning into terrorists' paradise. If they **really** want you, then there must be good reason(s) for it, and they can get you anywhere you go.
-
-As a privacy-conscious person, you should be clear and discerning about who your allies and adversaries are. You should not look at the subject from a single point of view and fail to see the bigger picture which is the real world and what happens in it.
-
-### Why Tactically?
-
-Privacy decisions require clarity and foresight. **You should not jeopardize your relationships with your friends, colleagues or other allies.** Your anonymity and privacy should not harm them or negatively affect your life and interactions with them.
-
-### What if You're Already Well-Known and Popular? <img width="40" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/gothwink.gif">
-
-If you're already famous and have a large following, then it's hard to erase your digital footprint. **This is not necessarily a bad thing.** Anonymity is not for everyone and people have different preferences and goals. This post just explores one of the many possible lifestyles.
-
-</p>
-
-<img src="https://github.com/HotCakeX/Harden-Windows-Security/raw/main/images/Gifs/1pxRainbowLine.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
-
-<br>
-
-## [Let's Talk About Tor - Including All Software and Tools That Utilize Tor Network](#lets-talk-about-tor---including-all-software-and-tools-that-utilize-tor-network-) <img width="50" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/qynoano.gif">
+## <img width="50" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/qynoano.gif"> [Tor Brief: A Quickfire Discussion](#lets-talk-about-tor---including-all-software-and-tools-that-utilize-tor-network-)
 
 Tor network is an inherently defective privacy instrument. It's vulnerable, its traffic is readily identified, severely limited or blocked. It's a partial solution that is not even accessible to everyone. That includes any pluggable transports and bridges of any types.
 
@@ -78,9 +56,77 @@ So where does that leave us? Using Tor in free western countries. Now the questi
 
 <br>
 
+## Threats to Democracy and Western Values
+
+The Western world faces multifaceted challenges from entities intent on eroding its foundational values and societal norms. These adversities manifest through diverse tactics, including disinformation campaigns, psychological operations, cyber warfare, terrorism, among others. They should be examined thoroughly, as they are critical to cultivating an informed perspective on privacy and anonymity.
+
+<br>
+
+> [!TIP]\
+> **Important Sources and Proofs**
+>
+> * [Designated Foreign Terrorist Organizations](https://www.state.gov/foreign-terrorist-organizations/)
+> 
+> * [State Sponsors of Terrorism](https://www.state.gov/state-sponsors-of-terrorism/)
+> 
+> * [Microsoft: Iran accelerates cyber ops against Israel from chaotic start](https://blogs.microsoft.com/on-the-issues/2024/02/06/iran-accelerates-cyber-ops-against-israel/)
+> 
+> * [Microsoft: Rinse and repeat: Iran accelerates its cyber influence operations worldwide](https://blogs.microsoft.com/on-the-issues/2023/05/02/dtac-iran-cyber-influence-operations-digital-threat/)
+> 
+> * [Microsoft: Iran turning to cyber-enabled influence operations for greater effect](https://www.microsoft.com/en-us/security/security-insider/intelligence-reports/iran-turning-to-cyber-enabled-influence-operations-for-greater-effect)
+> 
+> * [Inside Tehran's Soft War](https://content.iranintl.com/en/investigates/inside-tehran-softwar/index.html)
+> 
+> * [High-Level Iranian Spy Ring Busted in Washington](https://www.tabletmag.com/sections/israel-middle-east/articles/iran-spy-ring-robert-malley-lee-smith)
+> 
+> * [Member of Iranian Influence Network Visited Biden White House Five Times](https://freebeacon.com/national-security/member-of-iranian-influence-network-visited-biden-white-house-five-times/)
+> 
+> * [All iranian newspapers and medias displaying the photos of university encampments on their front page, **cheering and Praising them.**](https://twitter.com/JasonMBrodsky/status/1784533271168123276)
+> 
+> * [Great speech by Eva Vlaardingerbroek
+](https://twitter.com/EvaVlaar/status/1784264775574188371)
+> 
+> * [Natasha Hausdorff responds to the ICRC on the Geneva Conventions](https://youtu.be/SPpGMc1OyLs?si=vvz52gmlfUPagE_M)
+
+<br>
+
+The concept of psychological operations (PsyOps) revolves around influencing the emotions, motives, objective reasoning, and ultimately the behavior of individuals, groups, and even governments. These operations are frequently orchestrated by enemy intelligence agencies, military forces, and other covert organizations.
+
+The enemy recognizes their military limitations, so their strategy involves sowing division from within—a path to conquest.
+
+</p>
+
+<img src="https://github.com/HotCakeX/Harden-Windows-Security/raw/main/images/Gifs/1pxRainbowLine.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
+
+<br>
+
+## [Tactically Identify Friends and Foes, a Reality Check](#tactically-identify-friends-and-foes-a-reality-check-) <img width="50" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/yangfingerguns.gif">
+
+One of the first steps to protect your privacy is to identify and decide who is included in your trusted circle and who falls outside of it, based on your personal goals and values. This will help you choose the appropriate tools and strategies to safeguard your information and avoid unnecessary risks. You need to decide a level of privacy for yourself to adhere to.
+
+Take into account the information highlighted in the preceding section on **Threats to Democracy and Western Values** when making decisions regarding privacy and anonymity. Recognize that you are an integral part of this broader reality and context.
+
+You cannot stay private and hidden from agencies with global reach such as NSA, CIA, Mossad and other western intelligence agencies, the same people that prevent the civilized part of the world from turning into terrorists' paradise. If they **really** want you, then there must be good reason(s) for it, and they can get you anywhere you go.
+
+As a privacy-conscious person, you should be clear and discerning about who your allies and adversaries are. You should not look at the subject from a single point of view and fail to see the bigger picture which is the real world and what happens in it.
+
+### Why Tactically?
+
+Privacy decisions require clarity and foresight. **You should not jeopardize your relationships with your friends, colleagues or other allies.** Your anonymity and privacy should not harm them or negatively affect your life and interactions with them.
+
+### What if You're Already Well-Known and Popular? <img width="40" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/gothwink.gif">
+
+If you're already famous and have a large following, then it's hard to erase your digital footprint. **This is not necessarily a bad thing.** Anonymity is not for everyone and people have different preferences and goals. This post just explores one of the many possible lifestyles.
+
+</p>
+
+<img src="https://github.com/HotCakeX/Harden-Windows-Security/raw/main/images/Gifs/1pxRainbowLine.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
+
+<br>
+
 ## [Anonymity, the Wrong Way](#anonymity-the-wrong-way-) <img width="50" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/dead.gif">
 
-Anonymity with the aim of facilitating and using tools to try to stay undetected from the western intelligence agencies can hurt the security. Terrorists and threat actors shouldn't be undetectable, under the radar or be able to keep a low profile. Their actions and plans should always be visible.
+Anonymity with the aim of facilitating and using tools to try to stay undetected from the western intelligence agencies can hurt the security. Terrorists and threat actors should not be undetectable, under the radar or be able to keep a low profile. Their actions and plans should always be visible.
 
 Therefore, anonymity with this particular mindset is not only futile, but also harmful. It can make you a target of suspicion and investigation, or even a victim of malicious actors who may exploit your vulnerability. It can also weaken the collective defense and resilience of the society against the real enemies who want to harm you.
 
@@ -92,7 +138,7 @@ Therefore, anonymity with this particular mindset is not only futile, but also h
 
 ## <img width="50" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/like.gif"> [Anonymity, the Right Way](#-anonymity-the-right-way)
 
-Let's be honest, there are misguided people out there: stalkers, trolls, script-kiddies called anonymous groups, doxxers, criminals, irritating privacy intruding people in general.
+There are misguided and ill-intended people out there: stalkers, trolls, script-kiddies called anonymous groups, doxxers, criminals, irritating privacy intruding people in general. People that do not share the same values as you do in the civilized world. **They are the ones that you need to protect yourself from. They are the ones that you need to be anonymous from.**
 
 To protect yourself from these groups of individuals, you need to take proactive measures. This is the proper type of anonymity and one that is the most advantageous.
 
@@ -112,7 +158,7 @@ Obscurity is the state of being difficult to understand or interpret. It is diff
 
 That implies, rather than attempting to conceal from those groups of individuals, playing by their rules.
 
-They want to get information about you? OK then, provide them information, false credible information.
+They, (the same group we talked about in the previous section), want to get information about you? OK then, provide them information, false credible information.
 
 * Leave breadcrumbs for them online to find and follow, make it subtle and look like they worked for them
 * Let them think they know you
@@ -121,13 +167,13 @@ They want to get information about you? OK then, provide them information, false
 
 I'm intentionally not going into details about them. Those methods have been proven to be successful on many occasions.
 
-Moreover, be aware of the company the software or online service that you use belongs to. For example, Google is one of the biggest data mining companies in the world, if not the biggest. You desire to advertise your product in the most efficient way? You give it to Google. That's what their business is about. In comparison, a different company like Microsoft, is about providing services, that's their primary source of income.
+Moreover, be aware of the company the software or online service that you use belongs to. For example, [Google](https://www.dailywire.com/news/google-employees-arrested-while-occupying-ceos-office-with-anti-israel-demands) is one of the biggest data mining companies in the world, if not the biggest. You desire to advertise your product in the most efficient way? You give it to Google. That's what their business is about. In comparison, a different company like Microsoft, is about providing services, that's their [primary source of income](https://www.microsoft.com/en-us/Investor/earnings/trended/cash-returned.aspx).
 
 Be cautious about other companies that offer free products and services. if something is free, then you and your data is the price that you are paying, unknowingly.
 
 ### OSINT
 
-When I want to remedy a problem, I usually address the root cause of it. By securing your privacy and anonymity in such fundamental ways described in this guide, you automatically address a lot of other things such as OSINT, which stands for Open source intelligence, and relies on whatever data available on the Internet. You are nullifying their data about you without them even noticing, and that is definitely one of the goals.
+When I want to remedy a problem, I usually address the root cause of it. By securing your privacy and anonymity in such fundamental ways described in this guide, you automatically address a lot of other things such as OSINT, which stands for Open source intelligence, and relies on whatever data available on the Internet. You are nullifying their data about you without them even noticing, and that is definitely one of the goals. It's a tool that is useful in the hands of friendlies but can be harmful in the hands of adversaries.
 
 </p>
 
