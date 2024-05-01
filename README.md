@@ -63,17 +63,17 @@ The Western world faces multifaceted challenges from entities intent on eroding 
 <br>
 
 > [!TIP]\
-> **Important Sources and Proofs**
+> **Important Sources and Proofs That Are Good to Read And/or Watch**
 >
-> * [Designated Foreign Terrorist Organizations](https://www.state.gov/foreign-terrorist-organizations/)
+> * [**United States Government**: Designated Foreign Terrorist Organizations](https://www.state.gov/foreign-terrorist-organizations/)
 >
-> * [State Sponsors of Terrorism](https://www.state.gov/state-sponsors-of-terrorism/)
+> * [**United States Government**: State Sponsors of Terrorism](https://www.state.gov/state-sponsors-of-terrorism/)
 >
-> * [Microsoft: Iran accelerates cyber ops against Israel from chaotic start](https://blogs.microsoft.com/on-the-issues/2024/02/06/iran-accelerates-cyber-ops-against-israel/)
+> * [**Microsoft**: Iran accelerates cyber ops against Israel from chaotic start](https://blogs.microsoft.com/on-the-issues/2024/02/06/iran-accelerates-cyber-ops-against-israel/)
 >
-> * [Microsoft: Rinse and repeat: Iran accelerates its cyber influence operations worldwide](https://blogs.microsoft.com/on-the-issues/2023/05/02/dtac-iran-cyber-influence-operations-digital-threat/)
+> * [**Microsoft**: Rinse and repeat: Iran accelerates its cyber influence operations worldwide](https://blogs.microsoft.com/on-the-issues/2023/05/02/dtac-iran-cyber-influence-operations-digital-threat/)
 >
-> * [Microsoft: Iran turning to cyber-enabled influence operations for greater effect](https://www.microsoft.com/en-us/security/security-insider/intelligence-reports/iran-turning-to-cyber-enabled-influence-operations-for-greater-effect)
+> * [**Microsoft**: Iran turning to cyber-enabled influence operations for greater effect](https://www.microsoft.com/en-us/security/security-insider/intelligence-reports/iran-turning-to-cyber-enabled-influence-operations-for-greater-effect)
 >
 > * [Inside Tehran's Soft War](https://content.iranintl.com/en/investigates/inside-tehran-softwar/index.html)
 >
@@ -83,10 +83,10 @@ The Western world faces multifaceted challenges from entities intent on eroding 
 >
 > * [All iranian newspapers and medias displaying the photos of university encampments on their front page, **cheering and Praising them.**](https://twitter.com/JasonMBrodsky/status/1784533271168123276)
 >
-> * [Great speech by Eva Vlaardingerbroek
+> * [**Great speech**: by Eva Vlaardingerbroek
 ](https://twitter.com/EvaVlaar/status/1784264775574188371)
 >
-> * [Natasha Hausdorff responds to the ICRC on the Geneva Conventions](https://youtu.be/SPpGMc1OyLs?si=vvz52gmlfUPagE_M)
+> * [**Great talk**: Natasha Hausdorff responds to the ICRC on the Geneva Conventions](https://youtu.be/SPpGMc1OyLs?si=vvz52gmlfUPagE_M)
 
 <br>
 
