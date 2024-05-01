@@ -169,7 +169,7 @@ They, (the same group we talked about in the previous section), want to get info
 
 I'm intentionally not going into details about them. Those methods have been proven to be successful on many occasions.
 
-Moreover, be aware of the company the software or online service that you use belongs to. For example, [Google](https://www.dailywire.com/news/google-employees-arrested-while-occupying-ceos-office-with-anti-israel-demands) is one of the biggest data mining companies in the world, if not the biggest. You desire to advertise your product in the most efficient way? You give it to Google. That's what their business is about. In comparison, a different company like Microsoft, is about providing services, that's their [primary source of income](https://www.microsoft.com/en-us/Investor/earnings/trended/cash-returned.aspx).
+Moreover, be aware of the company the software or online service that you use belongs to. For example, Google is one of the biggest data mining companies in the world, if not the biggest. You desire to advertise your product in the most efficient way? You give it to Google. That's what their business is about. In comparison, a different company like Microsoft, is about providing services, that's their [primary source of income](https://www.microsoft.com/en-us/Investor/earnings/trended/cash-returned.aspx).
 
 Be cautious about other companies that offer free products and services. if something is free, then you and your data is the price that you are paying, unknowingly.
 
