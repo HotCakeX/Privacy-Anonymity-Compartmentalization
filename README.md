@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/skullheart.gif"> [Privacy, Anonymity and Compartmentalization](#-privacy-anonymity-and-compartmentalization)
+# Privacy, Anonymity and Compartmentalization <img src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/skullheart.gif" alt="Privacy, Anonymity and Compartmentalization" width="50">
 
 This article explores the topics of privacy, anonymity and compartmentalization. These concepts are interrelated and essential for protecting one's identity, data and online activities from unwanted surveillance, tracking, interference and bad actors.
 
@@ -18,7 +18,7 @@ I hope you find this repository useful and informative. <img width="40" src="htt
 
 <br>
 
-## <img width="40" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/blue.gif"> [Privacy and the Illusion Surrounding It](#-privacy-and-the-illusion-surrounding-it)
+## Privacy and the Illusion Surrounding It <img width="40" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/blue.gif">
 
 In today's day and age, privacy is a bottomless pit. As long as you are connected to the Internet, your online activity is monitored or recorded at least by some entity or person somewhere in the world, either intentionally or through bulk data collection. The only escape from that is to renounce all electronic devices and dwell in a shielded underground chamber.
 
@@ -30,7 +30,7 @@ Privacy advertisements, advocates, tools, programs are all fundamentally flawed.
 
 <br>
 
-## <img width="50" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/qynoano.gif"> [Tor Brief: A Quickfire Discussion](#lets-talk-about-tor---including-all-software-and-tools-that-utilize-tor-network-)
+## Tor Brief: A Quickfire Discussion <img width="50" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/qynoano.gif">
 
 Tor network is an inherently defective privacy instrument. It's vulnerable, its traffic is readily identified, severely limited or blocked. It's a partial solution that is not even accessible to everyone. That includes any pluggable transports and bridges of any types.
 
@@ -56,7 +56,7 @@ So where does that leave us? Using Tor in free western countries. Now the questi
 
 <br>
 
-## Threats to Democracy and Western Values
+## Threats to Democracy and Western Values <img src="https://raw.githubusercontent.com/HotCakeX/Harden-Windows-Security/main/images/tarot-cards.gif" alt="Threats to Democracy and Western Values tarot cards" width="50">
 
 The Western world faces multifaceted challenges from entities intent on eroding its foundational values and societal norms. These adversities manifest through diverse tactics, including disinformation campaigns, psychological operations, cyber warfare, terrorism, among others. They should be examined thoroughly, as they are critical to cultivating an informed perspective on privacy and anonymity.
 
@@ -66,26 +66,26 @@ The Western world faces multifaceted challenges from entities intent on eroding 
 > **Important Sources and Proofs**
 >
 > * [Designated Foreign Terrorist Organizations](https://www.state.gov/foreign-terrorist-organizations/)
-> 
+>
 > * [State Sponsors of Terrorism](https://www.state.gov/state-sponsors-of-terrorism/)
-> 
+>
 > * [Microsoft: Iran accelerates cyber ops against Israel from chaotic start](https://blogs.microsoft.com/on-the-issues/2024/02/06/iran-accelerates-cyber-ops-against-israel/)
-> 
+>
 > * [Microsoft: Rinse and repeat: Iran accelerates its cyber influence operations worldwide](https://blogs.microsoft.com/on-the-issues/2023/05/02/dtac-iran-cyber-influence-operations-digital-threat/)
-> 
+>
 > * [Microsoft: Iran turning to cyber-enabled influence operations for greater effect](https://www.microsoft.com/en-us/security/security-insider/intelligence-reports/iran-turning-to-cyber-enabled-influence-operations-for-greater-effect)
-> 
+>
 > * [Inside Tehran's Soft War](https://content.iranintl.com/en/investigates/inside-tehran-softwar/index.html)
-> 
+>
 > * [High-Level Iranian Spy Ring Busted in Washington](https://www.tabletmag.com/sections/israel-middle-east/articles/iran-spy-ring-robert-malley-lee-smith)
-> 
+>
 > * [Member of Iranian Influence Network Visited Biden White House Five Times](https://freebeacon.com/national-security/member-of-iranian-influence-network-visited-biden-white-house-five-times/)
-> 
+>
 > * [All iranian newspapers and medias displaying the photos of university encampments on their front page, **cheering and Praising them.**](https://twitter.com/JasonMBrodsky/status/1784533271168123276)
-> 
+>
 > * [Great speech by Eva Vlaardingerbroek
 ](https://twitter.com/EvaVlaar/status/1784264775574188371)
-> 
+>
 > * [Natasha Hausdorff responds to the ICRC on the Geneva Conventions](https://youtu.be/SPpGMc1OyLs?si=vvz52gmlfUPagE_M)
 
 <br>
@@ -100,7 +100,7 @@ The enemy recognizes their military limitations, so their strategy involves sowi
 
 <br>
 
-## [Tactically Identify Friends and Foes, a Reality Check](#tactically-identify-friends-and-foes-a-reality-check-) <img width="50" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/yangfingerguns.gif">
+## Tactically Identify Friends and Foes, a Reality Check <img width="50" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/yangfingerguns.gif">
 
 One of the first steps to protect your privacy is to identify and decide who is included in your trusted circle and who falls outside of it, based on your personal goals and values. This will help you choose the appropriate tools and strategies to safeguard your information and avoid unnecessary risks. You need to decide a level of privacy for yourself to adhere to.
 
@@ -124,7 +124,7 @@ If you're already famous and have a large following, then it's hard to erase you
 
 <br>
 
-## [Anonymity, the Wrong Way](#anonymity-the-wrong-way-) <img width="50" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/dead.gif">
+## Anonymity, the Wrong Way <img width="50" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/dead.gif">
 
 Anonymity with the aim of facilitating and using tools to try to stay undetected from the western intelligence agencies can hurt the security. Terrorists and threat actors should not be undetectable, under the radar or be able to keep a low profile. Their actions and plans should always be visible.
 
@@ -136,7 +136,7 @@ Therefore, anonymity with this particular mindset is not only futile, but also h
 
 <br>
 
-## <img width="50" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/like.gif"> [Anonymity, the Right Way](#-anonymity-the-right-way)
+## Anonymity, the Right Way <img width="50" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/like.gif">
 
 There are misguided and ill-intended people out there: stalkers, trolls, script-kiddies called anonymous groups, doxxers, criminals, irritating privacy intruding people in general. People that do not share the same values as you do in the civilized world. **They are the ones that you need to protect yourself from. They are the ones that you need to be anonymous from.**
 
@@ -150,7 +150,7 @@ Always remember this fact: Those people can only know as much about you as you p
 
 <br>
 
-## [Anonymity Through Obscurity](#anonymity-through-obscurity-) <img width="50" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/chika%20suggestive.gif">
+## Anonymity Through Obscurity <img width="50" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/chika%20suggestive.gif">
 
 We talked about anonymity, the right way. So how can we achieve this anonymity exactly? **By embracing anonymity through Obscurity.**
 
@@ -181,7 +181,7 @@ When I want to remedy a problem, I usually address the root cause of it. By secu
 
 <br>
 
-## [Windows Sandbox](#windows-sandbox-) <img width="55" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/diamond-7.gif">
+## Windows Sandbox <img width="55" src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/diamond-7.gif">
 
 Windows Sandbox is a useful environment for using software without ruining your system. It provides a pristine, disposable and secure place that replicates your host OS.
 
