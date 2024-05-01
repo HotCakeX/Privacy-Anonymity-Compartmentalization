@@ -75,14 +75,6 @@ The Western world faces multifaceted challenges from entities intent on eroding 
 >
 > * [**Microsoft**: Iran turning to cyber-enabled influence operations for greater effect](https://www.microsoft.com/en-us/security/security-insider/intelligence-reports/iran-turning-to-cyber-enabled-influence-operations-for-greater-effect)
 >
-> * [Inside Tehran's Soft War](https://content.iranintl.com/en/investigates/inside-tehran-softwar/index.html)
->
-> * [High-Level Iranian Spy Ring Busted in Washington](https://www.tabletmag.com/sections/israel-middle-east/articles/iran-spy-ring-robert-malley-lee-smith)
->
-> * [Member of Iranian Influence Network Visited Biden White House Five Times](https://freebeacon.com/national-security/member-of-iranian-influence-network-visited-biden-white-house-five-times/)
->
-> * [All iranian newspapers **cheering and Praising** chaos and encampments in American Universities](https://twitter.com/JasonMBrodsky/status/1784533271168123276)
->
 > * [**Great speech**: by Eva Vlaardingerbroek
 ](https://twitter.com/EvaVlaar/status/1784264775574188371)
 >
