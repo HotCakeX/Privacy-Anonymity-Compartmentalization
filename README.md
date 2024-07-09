@@ -65,6 +65,8 @@ The Western world faces multifaceted challenges from entities intent on eroding 
 > [!TIP]\
 > **Important Sources and Proofs That Are Good to Read And/or Watch**
 >
+> * [Statement From **The U.S Director Of National Intelligence** On Iranian Influence Efforts](https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2024/3842-statement-from-director-of-national-intelligence-avril-haines-on-recent-iranian-influence-efforts)
+>
 > * [**United States Government**: Designated Foreign Terrorist Organizations](https://www.state.gov/foreign-terrorist-organizations/)
 >
 > * [**United States Government**: State Sponsors of Terrorism](https://www.state.gov/state-sponsors-of-terrorism/)
