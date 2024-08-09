@@ -77,6 +77,10 @@ The Western world faces multifaceted challenges from entities intent on eroding 
 >
 > * [**Microsoft**: Iran turning to cyber-enabled influence operations for greater effect](https://www.microsoft.com/en-us/security/security-insider/intelligence-reports/iran-turning-to-cyber-enabled-influence-operations-for-greater-effect)
 >
+> * [**Microsoft**: Iran Targeting 2024 US Election](https://blogs.microsoft.com/on-the-issues/2024/08/08/iran-targeting-2024-us-election/)
+>
+> * [**Microsoft**: Iran steps into US election 2024 with cyber-enabled influence operations](https://aka.ms/ElectionReport-Aug2024)
+>
 > * [**Great speech**: by Eva Vlaardingerbroek
 ](https://twitter.com/EvaVlaar/status/1784264775574188371)
 >
