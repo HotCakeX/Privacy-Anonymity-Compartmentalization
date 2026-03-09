@@ -1,0 +1,5 @@
+Adobe Premiere Pro's directory can be placed anywhere in the guest Sandbox OS.
+
+A new folder named `000` is created in the Adobe Premiere Pro's directory to place the required files such as the `.ps1` script and VS runtime installer.
+
+VS runtime needs to be installed for the Premiere Pro to run.

@@ -1,0 +1,20 @@
+<Configuration>
+  <MemoryInMB>8140</MemoryInMB>
+  <Networking>disable</Networking>
+  <vGPU>Enable</vGPU>
+  <MappedFolders>
+    <MappedFolder>
+      <HostFolder>J:\Adobe Premiere Pro 2026</HostFolder>
+      <SandboxFolder>C:\Users\WDAGUtilityAccount\Desktop\Adobe Premiere Pro 2026</SandboxFolder>
+      <ReadOnly>true</ReadOnly>
+    </MappedFolder>
+    <MappedFolder>
+      <HostFolder>J:\Adobe Premiere Pro 2026\000</HostFolder>
+      <SandboxFolder>C:\Users\WDAGUtilityAccount\Desktop\000</SandboxFolder>
+      <ReadOnly>true</ReadOnly>
+    </MappedFolder>
+  </MappedFolders>
+  <LogonCommand>
+    <Command>powershell.exe -ExecutionPolicy Bypass -File "C:\Users\WDAGUtilityAccount\Desktop\000\Adobe Premiere Pro.ps1" </Command>
+  </LogonCommand>
+</Configuration>
